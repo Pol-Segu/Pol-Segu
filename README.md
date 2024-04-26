@@ -1,18 +1,18 @@
 <h1 align="left">Hi 👋</h1>
 
-<p align="left">My name is Pol and I'm an aspiring Data Scientist from Barcelona, Spain.</p>
+<p align="left">My name is Pol and I'm a Data Analyst from Barcelona, Spain.</p>
 
 <h2 align="left">About me</h2>
 
-- 📚 I have a **BSc in Economics** from the Universitat Pompeu Fabra
+- 📚 I’m currently purusing a  **Master's Degree in Data Analytics**, which has a strong component in **Deep Learning**
+  
+- 🌱 I have a **BSc in Economics** from the Universitat Pompeu Fabra
 
-- 🌱 I’m currently purusing a  **Master's Degree in Data Analytics**, which has a strong component in **Deep Learning**
+- 🔭 I’m currently working as a **Data Analyst** at [Hector Kitchen](https://www.hectorkitchen.com/)
 
-- 🔭 I’m currently working as a **Data Analyst** in [Hector Kitchen](https://www.hectorkitchen.com/)
+- 🎯 I love to create and optimize prediction models. I aim to harness the power of artificial intelligence and available data to enhance **decision-making** processes. 
 
-- 🎯 I aim to harness the power of artificial intelligence and available data to enhance **decision-making** processes
-
-- 📫 How to reach me: **pol.segu@gmail.com**
+- 📫 How to reach me: **pol.segu@gmail.com** (I respond quickly!)
 
 - 📄 Know about my experiences (CV): [polsegu.me](https://polsegu.me/)
 
