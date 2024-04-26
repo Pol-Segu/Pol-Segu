@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-- 📚 I’m currently purusing a  **Master's Degree in Data Analytics**, which has a strong component in **Deep Learning**
+- 📚 I’m currently pursuing a  **Master's Degree in Data Analytics**, which has a strong component in **Deep Learning**
   
 - 🌱 I have a **BSc in Economics** from the Universitat Pompeu Fabra
 
