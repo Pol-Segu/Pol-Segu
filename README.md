@@ -1,20 +1,18 @@
 <h1 align="left">Hi 👋</h1>
 
-<p align="left">My name is Pol and I'm a Data Analyst from Barcelona, Spain.</p>
+<p align="left">My name is Pol and I'm a Data Scientist from Barcelona, Spain.</p>
 
 <h2 align="left">About me</h2>
 
-- 📚 I’m currently pursuing a  **Master's Degree in Data Analytics**, which has a strong component in **Deep Learning**
-  
-- 🌱 I have a **BSc in Economics** from the Universitat Pompeu Fabra
+- 🔭 I’m currently working as a **Data Scientist** at [Edpuzzle](https://www.edpuzzle.com/) in Barcelona
 
-- 🔭 I’m currently working as a **Data Analyst** at [Hector Kitchen](https://www.hectorkitchen.com/)
+- 📚 I hold a **Master's Degree in Data Analytics**, and a **BSc in Economics**, both from Universitat Pompeu Fabra
+  
+- 🌱 I over **2 years of professional experience** in Data Analytics
 
 - 🎯 I love to create and optimize prediction models. I aim to harness the power of artificial intelligence and available data to enhance **decision-making** processes. 
 
-- 📫 How to reach me: **pol.segu@gmail.com** (I respond quickly!)
-
-- 📄 Know about my experiences (CV): [polsegu.me](https://polsegu.me/)
+- 📫 How to reach me: **polsegu@pm.me** (I respond quickly!)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -27,7 +25,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo"  />
   <img width="12" />
 </div>
 
