@@ -8,7 +8,7 @@
 
 - 📚 I hold a **Master's Degree in Data Analytics**, and a **BSc in Economics**, both from Universitat Pompeu Fabra
   
-- 🌱 I over **2 years of professional experience** in Data Analytics
+- 🌱 I over **2 years of professional experience** in Data Analytics, and many more messing around with data in my free time!
 
 - 🎯 I love to create and optimize prediction models. I aim to harness the power of artificial intelligence and available data to enhance **decision-making** processes. 
 
